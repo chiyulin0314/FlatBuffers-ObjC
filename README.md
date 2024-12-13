@@ -9,4 +9,4 @@ FlatBuffers Objective-C extension implementation
 
 4. import the files into your project generated for step 3
 
-5. add pod 'FlatBuffers-ObjC' to your Podfile
+5. add pod 'FlatBuffers-ObjC', :git => 'https://github.com/chiyulin0314/FlatBuffers-ObjC.git' to your Podfile
